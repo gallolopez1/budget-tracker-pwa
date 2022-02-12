@@ -6,7 +6,8 @@ Build an API for a social network web application where users can share their th
 
 ## Links
 
-* 💾 [Repo](https://github.com/gallolopez1/Social-Network-API)
+* 🌎 [Heroku](#)
+* 💾 [Repo](https://github.com/gallolopez1/budget-tracker-pwa)
 
 ## User Story
 
