@@ -1,9 +1,5 @@
 # Challenge 19: Progressive Web Applications (PWA) - Budget Tracker
 
-# Activity Instructions:
-
-Build an API for a social network web application where users can share their thoughts, react to friends’ thoughts, and create a friend list. 
-
 ## Links
 
 * 🌎 [Heroku](https://sleepy-citadel-98771.herokuapp.com/)
